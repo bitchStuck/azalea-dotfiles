@@ -5,7 +5,6 @@
 # common operations
   Super          Return   *term* (`xfce4-terminal`)
   Super          q        *quit* (kill focused window)
-  Super   Shift  q        *quit* (kill focused window)
   Super          d        *show app menu* (`wofi small`)
   Super   Shift  d        *show app menu* (`wofi large`)
   Super          x        *show archlinux-logout* (lock/suspend/logout/reboot/shutdown)
